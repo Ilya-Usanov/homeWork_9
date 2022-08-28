@@ -1,0 +1,18 @@
+{
+	"givenName": "John",
+	"surname": "Spiker",
+	"fullName": "Spiker John",
+	"age": 33,
+	"languages": [
+		"English",
+		"French",
+		"Spanish"
+	],
+	"document": {
+		"typeDocument": "passport",
+		"passportData": {
+			"code": "USA",
+			"passportNo": "246824"
+		}
+	}
+}
